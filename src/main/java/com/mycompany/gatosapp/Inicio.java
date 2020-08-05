@@ -17,7 +17,7 @@ public class Inicio {
         String[] botones = {
             "1. Ver gatos",
             "2. Ver favoritos",
-            "2. Salir"
+            "3. Salir"
         };
         String opcion = "";
         

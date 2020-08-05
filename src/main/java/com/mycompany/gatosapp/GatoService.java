@@ -132,7 +132,7 @@ public class GatoService {
                     verFavoritos(apiKey);
                 }
                 else if(opcion.equals(botones[1])) {
-                    borrarFavorito(gatoFav);
+                    borrarFavorito(gatoFav);                    
                     return;
                 }                
             }
